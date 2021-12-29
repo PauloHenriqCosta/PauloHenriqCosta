@@ -13,12 +13,12 @@ HTML | CSS | JAVASCRIPT
 ### 
 
 
-- 🌱 Dedicando atenção especial ao **Front end**.
+- 🌱 Dedicando atenção especial ao **Front End**.
 
 
-### 
+###  
 
-- [LinkedIn](https://www.linkedin.com/in/paulo-hnrq-costa/)
+-[LinkedIn](https://www.linkedin.com/in/paulo-hnrq-costa/)
 
 ##
 
