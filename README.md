@@ -1,16 +1,25 @@
-### Hi there 👋
+## Oi, prazer, sou o Paulo Henrique Costa 👋
 
-<!--
-**PauloHenriqCosta/PauloHenriqCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Em transição de carreira, estou no [Certified Tech Developer](https://www.digitalhouse.com/br/acoes/certified-tech-developer) (curso da [Digital House](https://www.digitalhouse.com/br) em parceria com [Mercado Livre](https://www.mercadolivre.com.br/) e [Globant](https://www.globant.com/pt-br)). 
 
-Here are some ideas to get you started:
+Atualmente, participo do Bootcamp de Front End da [DIO](https://www.dio.me/), patrocinado pelo [Inter](https://www.bancointer.com.br/) (parceria possível pela atuação da [Órbi Conecta](https://orbi.co/)).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##
+
+
+HTML | CSS | JAVASCRIPT
+
+### 
+
+
+- 🌱 Atualmente, tenho reservado uma atenção especial ao **Front end**.
+
+
+### 
+
+- [LinkedIn](https://www.linkedin.com/in/paulo-hnrq-costa/)
+
+##
+
+
