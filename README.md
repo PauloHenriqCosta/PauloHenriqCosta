@@ -13,7 +13,7 @@ HTML | CSS | JAVASCRIPT
 ### 
 
 
-- 🌱 Atualmente, tenho reservado uma atenção especial ao **Front end**.
+- 🌱 Dedicando atenção especial ao **Front end**.
 
 
 ### 
